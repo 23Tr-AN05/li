@@ -105,10 +105,18 @@
  <body>
  <h1 id="para1">COMMENT PEUT-ON DEFINIR LA LIBERTE?</h1>
  <h2 id="para2">Comment peut-elle s'exprimer?</h2>
+ <br>  
  <br>
- <br>
- <p id="para8">L'étymologie grecque du mot "Vérité":</p>  
- 
+ <p id="para3"><b> Il existe 4 domaines de vérité :</b> </p>
+ <ol style="liste-style-type:lower-alpha">
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La liberté d’indépendance : c’est le fait de ne dépendre de rien (substance) ni de personne.</font></li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La liberté d’indifférence : la capacité pour un individu de choisir parmi plusieurs possibilités qui se présentent à lui, n’importe laquelle d’entre elles, en toute indifférence, sans avoir une raison particulière de faire tel ou tel choix. <br>&nbsp;&nbsp; &nbsp;&nbsp; Cette capacité démontre que l’Homme est doué d’un <b><u>libre arbitre </u></b>  et qu’il n’est pas déterminé par avance dans ces choix. </font><br><br><font styl="color:#00FF00;"> &nbsp;&nbsp; &nbsp;&nbsp;  → Le dilemme de l’âne de BURIDAN selon laquelle un âne ayant aussi soif que faim, placé à égale distance d’un seau d’avoine et d’eau, serait mort de soif et de faim, faute de choisir par quoi commencer.<br>&nbsp;&nbsp; &nbsp;&nbsp; └> Expérience de pensée pouvant l’existence de la liberté d’indifférence. </font></li>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:#0000FF;">La vérité des sciences expérimentales</font> :
+     <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- Elle<font style="color:#FF0000;">repose sur un protocole</font>: hypothèse/ expérimentation/ validation ou invalidation de la théorie.
+     <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;- Elle repose sur l’<font style="color:#FF0000;">expérimentation</font>.</li>     
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La vérité judiciaire</font> : elle repose sur<font style="color:#FF0000;">des preuves</font>afin de déterminer l’innocence ou la culpabilité d’un prévenu.</li>
+ </ol>
+ <br><br><br>
 
 
 
