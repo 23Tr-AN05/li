@@ -107,8 +107,7 @@
  <h2 id="para2">Comment peut-elle s'exprimer?</h2>
  <br>  
  <br>
- <p id="para3"><b> Il existe 4 domaines de vérité :</b> </p>
- <ol style="liste-style-type:lower-alpha">
+  <ol style="liste-style-type:lower-alpha">
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La liberté d’indépendance : c’est le fait de ne dépendre de rien (substance) ni de personne.</font><br></li>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La liberté d’indifférence : la capacité pour un individu de choisir parmi plusieurs possibilités qui se présentent à lui, n’importe laquelle d’entre elles, en toute indifférence, sans avoir une raison particulière de faire tel ou tel choix. <br>&nbsp;&nbsp; &nbsp;&nbsp; Cette capacité démontre que l’Homme est doué d’un <b><u>libre arbitre </u></b>  et qu’il n’est pas déterminé par avance dans ces choix. </font><br><br><font style="color:#00FF00;"> &nbsp;&nbsp; &nbsp;&nbsp;  → Le dilemme de l’âne de BURIDAN selon laquelle un âne ayant aussi soif que faim, placé à égale distance d’un seau d’avoine et d’eau, serait mort de soif et de faim, faute de choisir par quoi commencer.<br>&nbsp;&nbsp; &nbsp;&nbsp; └> Expérience de pensée pouvant l’existence de la liberté d’indifférence. </font><br><br><font style="color:	#9400D3;">Pour René DESCARTES, il s’agit du plus bas degré de liberté.</font><br></li>
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:#0000FF;">Le libre arbitre : la capacité dont dispose la<b><i> volonté </i></b>d’effectuer un choix<b><i> par elle-même</i></b> (penser par soi-même), de choisir selon <b><i>des motifs</i></b> telle ou telle chose <br> &nbsp;&nbsp; &nbsp;&nbsp;⇒ Rationalité (nos choix sont argumentés)<br><br> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#9400D3;">→ S’oppose au déterminisme et ou fatalisme pour lesquels la volonté serait déterminé par des « forces » extérieurs que l’Homme ne maîtrise pas.</font><br></li>     
@@ -116,9 +115,67 @@
       <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; └> Agir pour soi-même / engagement
       <br> &nbsp;&nbsp; &nbsp;&nbsp; └> <b><i>La volonté</i></b> sait résister aux penchants, à ses désirs, pour suivre <b><i>la raison</i></b>.
      </font><br> </li>
-     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La liberté politique : → Les libertés politiques qui dépendent des États <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;En démocratie, elle se définit comme l’exercice de la souveraineté par le <b><i>peuple</i></b>, à travers les lois, lorsque celles-ci incarnent <b><i>la volonté générale</i></b>.</font>
+     <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La liberté politique : → Les libertés politiques qui dépendent des États <br> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;En démocratie, elle se définit comme l’exercice de la souveraineté par le <b><i>peuple</i></b>, à travers les lois, lorsque celles-ci incarnent <b><i>la volonté générale</i></b>.</font></li>
  </ol>
  <br><br><br>
+
+ <p id="para9"><u><b>Baruch SPINOZA, <i>Traité Politique (La lettre à SCHULLER)</i>, XVII<sup>e</sup> siècle (P.226)</b></u></p>
+   <button type="button" class="collapsible"><p id="para3"><b>Baruch SPINOZA</b>, <i>Traité Politique (La lettre à SCHULLER)</i>, XVII<sup>e</sup> siécle<br> La vérité est dans les Idées: l'âme doit chercher à s'élever</p>  </button>
+  
+ <div class="content">
+  <p id="para3"><i></i>
+  <br>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+  </p>
+ </div>
+
+ <br>
+ <iframe src="https://drive.google.com/file/d/14ODGscVgK4umAdqZNIM_zTVwz08dTnZa/preview" width="640" height="480" allow="autoplay"></iframe>
+ <br>
+ <p id="para3"><font style="color:#FF0000;">Appétit (chez SPINOZA) : c’est un <i>conatus</i> qui se rapporte aussi bien ou corps qu’à l’intellect.
+ <br><i>Conatus </i>: une chose en tant qu’elle s’efforce de persévérer dans son être, c’est-à-dire tout ce qu’elle peut faire pour déployer son être.</font>
+ <br>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ L’Homme n’agit ou ne décide pas selon sa rationalité, la plupart du temps,mais selon ses désirs.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Ainsi, il est poussé à désirer quelque chose non pas parce qu’elle est bonne, mais c’est parce qu’il la désire qu’il la trouve bonne.
+ <br><br><i style="color:#0000FF;">« Nous ne désirons pas une chose parce que nous la jugeons <font style="color:#00FF00;">[rationalité (argument)] </font>bonne, mais nous la jugeons bonne parce que nous la désirons »</i>
+  <br><i style="test-align:right">  SPINOZA</i>
+
+ 
+ 
+ </p>
+
+
+
+
+
 
 
 
