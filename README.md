@@ -120,7 +120,7 @@
  <br><br><br>
 
  <p id="para9"><u><b>Baruch SPINOZA, <i>Traité Politique (La lettre à SCHULLER)</i>, XVII<sup>e</sup> siècle (P.226)</b></u></p>
-   <button type="button" class="collapsible"><p id="para3"><b>Baruch SPINOZA</b>, <i>Traité Politique (La lettre à SCHULLER)</i>, XVII<sup>e</sup> siécle<br> La vérité est dans les Idées: l'âme doit chercher à s'élever</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>Baruch SPINOZA</b>, <i>Traité Politique (La lettre à SCHULLER)</i>, XVII<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
   
  <div class="content">
   <p id="para3"><i></i>
@@ -170,6 +170,10 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#00FF00;">  └> Lien liberté et désir : les deux s’opposent car on ne connaît pas l’origine de nos désirs (la plupart du temps nous n’en sommes pas les auteurs) + le désir est sans fin, incontournable.</font>
  <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  Donc suivre ses désirs, c’est renoncer à sa liberté.
  </p>
+<br><br>
+
+
+
 
 
 
