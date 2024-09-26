@@ -166,7 +166,7 @@
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ L’Homme n’agit ou ne décide pas selon sa rationalité, la plupart du temps,mais selon ses désirs.
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Ainsi, il est poussé à désirer quelque chose non pas parce qu’elle est bonne, mais c’est parce qu’il la désire qu’il la trouve bonne.
  <br><br><i style="color:#0000FF;">« Nous ne désirons pas une chose parce que nous la jugeons <font style="color:#00FF00;">[rationalité (argument)] </font>bonne, mais nous la jugeons bonne parce que nous la désirons »</i>
-  <br><i style="test-align:right">  SPINOZA</i>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i>SPINOZA</i>
 
  
  
