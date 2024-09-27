@@ -174,7 +174,7 @@
 
 
 
-
+ <a href="image/Comment_peut-on_définir_la_liberté.pdf" dowload>Techerfbfbss</a>
 
 
  <embed type="application/pdf" src="image\Comment_peut-on_définir_la_liberté.pdf" width="300" height="200">
