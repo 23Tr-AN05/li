@@ -159,6 +159,7 @@
 
  <br>
  <iframe src="https://drive.google.com/file/d/14ODGscVgK4umAdqZNIM_zTVwz08dTnZa/preview" width="640" height="480" allow="autoplay"></iframe>
+ <img src="image/3.1.jpg" width="1000" height="766" />
  <br>
  <p id="para3"><font style="color:#FF0000;">Appétit (chez SPINOZA) : c’est un <i>conatus</i> qui se rapporte aussi bien ou corps qu’à l’intellect.
  <br><i>Conatus </i>: une chose en tant qu’elle s’efforce de persévérer dans son être, c’est-à-dire tout ce qu’elle peut faire pour déployer son être.</font>
@@ -174,57 +175,85 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <hr/>
  <a href="image/Comment_peut-on_définir_la_liberté.pdf" dowload>Techerfbfbss</a>
 
 
  <embed type="application/pdf" src="image\Comment_peut-on_définir_la_liberté.pdf" width="300" height="200">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
