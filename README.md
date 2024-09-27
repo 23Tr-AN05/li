@@ -245,14 +245,13 @@
 
 
 
+<hr />
+ <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
+ <br />
+  <a href="image/Comment_peut-on_définir_la_liberté.pdf" dowload=""><p id="para3">Cliquer ici pour télécharger!</p></a>
+  <br /> 
+ <embed type="application/pdf" src="image\Comment_peut-on_définir_la_liberté.pdf" width="1000" height="1500" />
 
-
-
- <hr/>
- <a href="image/Comment_peut-on_définir_la_liberté.pdf" dowload>Techerfbfbss</a>
-
-
- <embed type="application/pdf" src="image\Comment_peut-on_définir_la_liberté.pdf" width="300" height="200">
 
 
 
