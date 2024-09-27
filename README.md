@@ -158,8 +158,7 @@
  </div>
 
  <br>
- <iframe src="https://drive.google.com/file/d/14ODGscVgK4umAdqZNIM_zTVwz08dTnZa/preview" width="640" height="480" allow="autoplay"></iframe>
- <img src="image/1.jpg" width="1000" height="766" />
+ <img src="image/1.jpg" width="650" height="450" />
  <br>
  <p id="para3"><font style="color:#FF0000;">Appétit (chez SPINOZA) : c’est un <i>conatus</i> qui se rapporte aussi bien ou corps qu’à l’intellect.
  <br><i>Conatus </i>: une chose en tant qu’elle s’efforce de persévérer dans son être, c’est-à-dire tout ce qu’elle peut faire pour déployer son être.</font>
