@@ -170,14 +170,14 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#00FF00;">  └> Lien liberté et désir : les deux s’opposent car on ne connaît pas l’origine de nos désirs (la plupart du temps nous n’en sommes pas les auteurs) + le désir est sans fin, incontournable.</font>
  <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  Donc suivre ses désirs, c’est renoncer à sa liberté.
  </p>
-<br><br>
+ <br><br>
 
 
 
 
 
 
-
+ <embed type="application/pdf" src="image\Comment_peut-on_définir_la_liberté.pdf" width="300" height="200">
 
 
 
