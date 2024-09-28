@@ -136,23 +136,23 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;le voyez bien, je ne fais pas consister la liberté dans un libre décret mais dans une
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; libre nécessité.
   <br>
-  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Mais descendons aux choses créées qui sont toutes déterminées par des causes
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Mais descendons aux choses créées qui sont toutes déterminées par des causes
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  extérieures à exister et à agir d’une certaine façon déterminée. Pour rendre cela 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; clair et intelligible, concevons une chose très simple : une pierre par exemple reçoit
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; d’une cause extérieure qui la pousse, une certaine quantité de mouvements et, l’impulsion
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;de la cause extérieure venant à cesser, elle continuera à se mouvoir nécessairement. 
-  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;Cette persistance de la pierre dans le mouvement est une contrainte, 
+  <br>15 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Cette persistance de la pierre dans le mouvement est une contrainte, 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  non parce qu’elle est nécessaire, mais parce qu’elle doit être définie par l’impulsion 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; d’une cause extérieure. Et ce qui est vrai de la pierre il faut l’entendre de toute chose 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;singulière, quelle que soit la complexité qu’il vous plaise de lui attribuer, si nombreuses
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; que puissent être ses aptitudes, parce que toute chose singulière est nécessairement
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;singulière, quelle que soit la complexité qu’il vous plaise de lui attribuer, si nombreuses
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; que puissent être ses aptitudes, parce que toute chose singulière est nécessairement
   <br>20 &nbsp;&nbsp; &nbsp;&nbsp; déterminée par une cause extérieure à exister et à agir d’une certaine
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   manière déterminée.
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Concevez maintenant, si vous voulez bien, que la pierre, tandis qu’elle continue de 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;se mouvoir, pense et sache qu’elle fait effort, autant qu’elle peut, pour se mouvoir.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;se mouvoir, pense et sache qu’elle fait effort, autant qu’elle peut, pour se mouvoir.
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Cette pierre assurément, puisqu’elle a conscience de son effort seulement et qu’elle 
-  <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;n’est en aucune façon indifférente, croira qu’elle est très libre et qu’elle ne persévère
+  <br>25&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;n’est en aucune façon indifférente, croira qu’elle est très libre et qu’elle ne persévère
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   dans son mouvement que parce qu’elle le veut. Telle est cette liberté humaine que 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; tous se vantent de posséder et qui consiste en cela seul que les hommes ont conscience
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; de leurs appétits et ignorent les causes qui les déterminent. Un enfant croit librement 
