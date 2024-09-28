@@ -129,6 +129,7 @@
  </div>
  <br><br><br>
  <p>kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</p>
+ </div>
 
 
 
@@ -214,6 +215,8 @@
   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;et cela parce qu’il y a certaines choses n’excitant en eux qu’un appétit léger, aisément
   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;maitrisé par le souvenir fréquemment rappelé de quelque autre chose.
   <br>
+ </div>
+  </div> 
  </div>
 
  <br>
