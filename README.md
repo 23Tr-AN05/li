@@ -119,43 +119,86 @@
  </ol>
  <br><br><br>
 
- <p id="para9"><u><b>Baruch SPINOZA, <i>Traité Politique (La lettre à SCHULLER)</i>, XVII<sup>e</sup> siècle (P.226)</b></u></p>
+ <p id="para9"><u><b>Baruch SPINOZA, <i>Traité Politique (La lettre à SCHULLER)</i>, XVII<sup>e</sup> siècle (P.266-267)</b></u></p>
    <button type="button" class="collapsible"><p id="para3"><b>Baruch SPINOZA</b>, <i>Traité Politique (La lettre à SCHULLER)</i>, XVII<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
   
  <div class="content">
-  <p id="para3"><i></i>
+  <p id="para3"><i>Nous nous sentons libres à chaque fois que nous pouvons faire ce que nous voulons.<br>Ce sentiment de liberté grandit, par exemple, sous l’effet de l’alcool : le timide se sent<br>soudain libéré et devient loquace, l’avare oublie de compter son argent… Mais ne se 
+sentent-ils pas d’autant plus libres qu’ils sont en réalité sous dépendance de la boisson ?<br>Suffit-il de vouloir quelque chose pour vouloir librement ?</i>
   <br>
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>20 &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
-  </p>
- </div>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  J’appelle libre, quant à moi, une chose qui est et agit par la seule nécessité de sa
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  nature ; contrainte, celle qui est déterminée par une autre à exister et à agir d’une
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; certaine façon déterminée.Dieu, par exemple, existe librement bien que nécessairement
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; parce qu’il existe par la seule nécessité de sa nature. De même aussi Dieu 
+  <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; se connaît lui-même librement parce qu’il existe par la seule nécessité de sa nature. 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  De même aussi Dieu se connaît lui-même et connaît toutes choses librement, parce 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; qu’il suit de la seule nécessité de sa nature que Dieu connaisse toutes choses. Vous 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;le voyez bien, je ne fais pas consister la liberté dans un libre décret mais dans une
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; libre nécessité.
+  <br>
+  <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Mais descendons aux choses créées qui sont toutes déterminées par des causes
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  extérieures à exister et à agir d’une certaine façon déterminée. Pour rendre cela 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; clair et intelligible, concevons une chose très simple : une pierre par exemple reçoit
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; d’une cause extérieure qui la pousse, une certaine quantité de mouvements et, l’impulsion
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;de la cause extérieure venant à cesser, elle continuera à se mouvoir nécessairement. 
+  <br>15 &nbsp;&nbsp; &nbsp;&nbsp;Cette persistance de la pierre dans le mouvement est une contrainte, 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  non parce qu’elle est nécessaire, mais parce qu’elle doit être définie par l’impulsion 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; d’une cause extérieure. Et ce qui est vrai de la pierre il faut l’entendre de toute chose 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;singulière, quelle que soit la complexité qu’il vous plaise de lui attribuer, si nombreuses
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; que puissent être ses aptitudes, parce que toute chose singulière est nécessairement
+  <br>20 &nbsp;&nbsp; &nbsp;&nbsp; déterminée par une cause extérieure à exister et à agir d’une certaine
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   manière déterminée.
+  <br>
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Concevez maintenant, si vous voulez bien, que la pierre, tandis qu’elle continue de 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;se mouvoir, pense et sache qu’elle fait effort, autant qu’elle peut, pour se mouvoir.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Cette pierre assurément, puisqu’elle a conscience de son effort seulement et qu’elle 
+  <br>25&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;n’est en aucune façon indifférente, croira qu’elle est très libre et qu’elle ne persévère
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   dans son mouvement que parce qu’elle le veut. Telle est cette liberté humaine que 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; tous se vantent de posséder et qui consiste en cela seul que les hommes ont conscience
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; de leurs appétits et ignorent les causes qui les déterminent. Un enfant croit librement 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;appéter le lait, un jeune garçon irrité vouloir se venger et, s’il est poltron,
+  <br>30&nbsp;&nbsp; &nbsp;&nbsp; vouloir fuir. Un ivrogne croit dire par un libre décret de son âme ce qu’ensuite,
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; revenu à la sobriété, il aurait voulu taire. De même un délirant, un bavard, et bien 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;d’autres de même farine, croient agir par un libre décret de l’âme et non se laisser 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;contraindre. Ce préjugé étant naturel, congénital parmi tous les hommes, ils ne
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; s’en libèrent pas aisément. Bien qu’en effet l’expérience enseigne plus que suffisamment 
+  <br>35&nbsp;&nbsp; &nbsp;&nbsp;que, s’ils est une chose dont les hommes soient peu capables , c’est de régler
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; leurs appétits et, bien qu’ils constatent que partagés entre deux affections contraires,
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;souvent ils voient le meilleur et font le pire, ils croient cependant qu’ils sont libres, 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;et cela parce qu’il y a certaines choses n’excitant en eux qu’un appétit léger, aisément
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;maitrisé par le souvenir fréquemment rappelé de quelque autre chose.
+  </div>
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  <br>
  <img src="image/1.jpg" width="650" height="450" />
