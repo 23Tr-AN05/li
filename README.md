@@ -124,7 +124,7 @@
   
  <div class="content">
   <p id="para3"><i>Nous nous sentons libres à chaque fois que nous pouvons faire ce que nous voulons.<br>Ce sentiment de liberté grandit, par exemple, sous l’effet de l’alcool : le timide se sent<br>soudain libéré et devient loquace, l’avare oublie de compter son argent… Mais ne se 
-sentent-ils pas d’autant plus libres qu’ils sont en réalité sous dépendance de la boisson ?<br>Suffit-il de vouloir quelque chose pour vouloir librement ?</i>
+ sentent-ils pas d’autant plus libres qu’ils sont en réalité sous dépendance de la boisson ?<br>Suffit-il de vouloir quelque chose pour vouloir librement ?</i>
   <br>
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  J’appelle libre, quant à moi, une chose qui est et agit par la seule nécessité de sa
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  nature ; contrainte, celle qui est déterminée par une autre à exister et à agir d’une
