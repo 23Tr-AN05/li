@@ -164,7 +164,7 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;d’autres de même farine, croient agir par un libre décret de l’âme et non se laisser 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;contraindre. Ce préjugé étant naturel, congénital parmi tous les hommes, ils ne
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; s’en libèrent pas aisément. Bien qu’en effet l’expérience enseigne plus que suffisamment 
-  <br>35&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;que, s’ils est une chose dont les hommes soient peu capables , c’est de régler
+  <br>35&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;que, s’ils est une chose dont les hommes soient peu capables , c’est de régler
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; leurs appétits et, bien qu’ils constatent que partagés entre deux affections contraires,
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;souvent ils voient le meilleur et font le pire, ils croient cependant qu’ils sont libres, 
   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;et cela parce qu’il y a certaines choses n’excitant en eux qu’un appétit léger, aisément
