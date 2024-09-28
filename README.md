@@ -155,49 +155,20 @@
   <br>25&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;n’est en aucune façon indifférente, croira qu’elle est très libre et qu’elle ne persévère
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   dans son mouvement que parce qu’elle le veut. Telle est cette liberté humaine que 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; tous se vantent de posséder et qui consiste en cela seul que les hommes ont conscience
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; de leurs appétits et ignorent les causes qui les déterminent. Un enfant croit librement 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; de leurs appétits et ignorent les causes qui les déterminent. Un enfant croit          librement 
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;appéter le lait, un jeune garçon irrité vouloir se venger et, s’il est poltron,
-  <br>30&nbsp;&nbsp; &nbsp;&nbsp; vouloir fuir. Un ivrogne croit dire par un libre décret de son âme ce qu’ensuite,
+  <br>30&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; vouloir fuir. Un ivrogne croit dire par un libre décret de son âme ce qu’ensuite,
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; revenu à la sobriété, il aurait voulu taire. De même un délirant, un bavard, et bien 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;d’autres de même farine, croient agir par un libre décret de l’âme et non se laisser 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;contraindre. Ce préjugé étant naturel, congénital parmi tous les hommes, ils ne
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;d’autres de même farine, croient agir par un libre décret de l’âme et non se laisser 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;contraindre. Ce préjugé étant naturel, congénital parmi tous les hommes, ils ne
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; s’en libèrent pas aisément. Bien qu’en effet l’expérience enseigne plus que suffisamment 
-  <br>35&nbsp;&nbsp; &nbsp;&nbsp;que, s’ils est une chose dont les hommes soient peu capables , c’est de régler
+  <br>35&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;que, s’ils est une chose dont les hommes soient peu capables , c’est de régler
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; leurs appétits et, bien qu’ils constatent que partagés entre deux affections contraires,
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;souvent ils voient le meilleur et font le pire, ils croient cependant qu’ils sont libres, 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;et cela parce qu’il y a certaines choses n’excitant en eux qu’un appétit léger, aisément
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;maitrisé par le souvenir fréquemment rappelé de quelque autre chose.
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;souvent ils voient le meilleur et font le pire, ils croient cependant qu’ils sont libres, 
+  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;et cela parce qu’il y a certaines choses n’excitant en eux qu’un appétit léger, aisément
+  <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;maitrisé par le souvenir fréquemment rappelé de quelque autre chose.
  </div>
-
-
-
-
-
- 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ <br>
 
 
  <br>
@@ -288,7 +259,7 @@
 
 
 
-<hr />
+ <hr />
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
  <br />
   <a href="image/Comment_peut-on_définir_la_liberté.pdf" dowload=""><p id="para3">Cliquer ici pour télécharger!</p></a>
