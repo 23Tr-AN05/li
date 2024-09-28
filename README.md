@@ -167,7 +167,7 @@ sentent-ils pas d’autant plus libres qu’ils sont en réalité sous dépendan
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;souvent ils voient le meilleur et font le pire, ils croient cependant qu’ils sont libres, 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;et cela parce qu’il y a certaines choses n’excitant en eux qu’un appétit léger, aisément
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;maitrisé par le souvenir fréquemment rappelé de quelque autre chose.
-</div>
+ </div>
 
 
 
