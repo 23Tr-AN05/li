@@ -129,11 +129,11 @@ sentent-ils pas d’autant plus libres qu’ils sont en réalité sous dépendan
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  J’appelle libre, quant à moi, une chose qui est et agit par la seule nécessité de sa
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  nature ; contrainte, celle qui est déterminée par une autre à exister et à agir d’une
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; certaine façon déterminée.Dieu, par exemple, existe librement bien que nécessairement
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; parce qu’il existe par la seule nécessité de sa nature. De même aussi Dieu 
+  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; parce qu’il existe par la seule nécessité de sa nature. De même aussi Dieu 
   <br>5 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; se connaît lui-même librement parce qu’il existe par la seule nécessité de sa nature. 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  De même aussi Dieu se connaît lui-même et connaît toutes choses librement, parce 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; qu’il suit de la seule nécessité de sa nature que Dieu connaisse toutes choses. Vous 
-  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;le voyez bien, je ne fais pas consister la liberté dans un libre décret mais dans une
+  <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;le voyez bien, je ne fais pas consister la liberté dans un libre décret mais dans une
   <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; libre nécessité.
   <br>
   <br>10&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Mais descendons aux choses créées qui sont toutes déterminées par des causes
