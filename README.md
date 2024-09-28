@@ -162,29 +162,17 @@
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;d’autres de même farine, croient agir par un libre décret de l’âme et non se laisser 
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;contraindre. Ce préjugé étant naturel, congénital parmi tous les hommes, ils ne
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; s’en libèrent pas aisément. Bien qu’en effet l’expérience enseigne plus que suffisamment 
-  <br>35&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;que, s’ils est une chose dont les hommes soient peu capables , c’est de régler
+  <br>35&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;que, s’ils est une chose dont les hommes soient peu capables , c’est de régler
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; leurs appétits et, bien qu’ils constatent que partagés entre deux affections contraires,
   <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;souvent ils voient le meilleur et font le pire, ils croient cependant qu’ils sont libres, 
   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;et cela parce qu’il y a certaines choses n’excitant en eux qu’un appétit léger, aisément
   <br>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;maitrisé par le souvenir fréquemment rappelé de quelque autre chose.
+  <br>
  </div>
+
  <br>
 
 
- <br>
- <img src="image/1.jpg" width="650" height="450" />
- <br>
- <p id="para3"><font style="color:#FF0000;">Appétit (chez SPINOZA) : c’est un <i>conatus</i> qui se rapporte aussi bien ou corps qu’à l’intellect.
- <br><i>Conatus </i>: une chose en tant qu’elle s’efforce de persévérer dans son être, c’est-à-dire tout ce qu’elle peut faire pour déployer son être.</font>
- <br>
- <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ L’Homme n’agit ou ne décide pas selon sa rationalité, la plupart du temps,mais selon ses désirs.
- <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Ainsi, il est poussé à désirer quelque chose non pas parce qu’elle est bonne, mais c’est parce qu’il la désire qu’il la trouve bonne.
- <br><br><i style="color:#0000FF;">« Nous ne désirons pas une chose parce que nous la jugeons <font style="color:#00FF00;">[rationalité (argument)] </font>bonne, mais nous la jugeons bonne parce que nous la désirons »</i>
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i>SPINOZA</i>
-  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#00FF00;">  └> Lien liberté et désir : les deux s’opposent car on ne connaît pas l’origine de nos désirs (la plupart du temps nous n’en sommes pas les auteurs) + le désir est sans fin, incontournable.</font>
- <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;  Donc suivre ses désirs, c’est renoncer à sa liberté.
- </p>
- <br><br>
 
 
 
