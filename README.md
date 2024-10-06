@@ -394,7 +394,7 @@
 
 
 
-
+ <font color="WHITE"><marquee direction="left" style="background:RED">Vous avez accès au cours de la liberté</marquee></font>
  <marquee style="border:RED 10px SOLID">Vous avez accès au cours de la liberté </marquee>
 
  <hr />
