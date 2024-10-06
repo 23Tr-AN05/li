@@ -187,6 +187,47 @@
  </p>
  <br><br><br>
 
+ 
+ <p id="para9"><u><b>Iris MURDOCH,, <i>La souveraineté et du bien</i>, XX<sup>e</sup> siècle ((p.284-285))</b></u></p>
+
+
+   <button type="button" class="collapsible"><p id="para3"><b>Iris MURDOCH,</b>, <i>La souveraineté et du bien</i>, XX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+
+
+
+
+
+
+
+ <br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">thèse: </i>La liberté est liée à notre niveau de connaissance de soi et du monde qui nous entoure, ils influencent, orientent nos choix. C’est cette connaissance qu’elle nomme <font style="color:#FF0000;">« attention »</font>, mais souvent nos choix sont déjà préorientés par les<font style="color:#FF0000;"> valeurs morales </font>de notre société.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color=#FF00FF;">  Problématique: </i>En quoi la connaissance du monde environnant permet d’exercer notre liberté ?
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color=#00FF00;">  Arguments: </i>
+ <ol>
+      <li>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<p id="para3">Savoir qui nous sommes permet des choix plus authentiques.</p></li>
+      <li>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<p id="para3">On est contraint parce que l’on voit le monde par le niveau de connaissances que l’on possède.</p></li>
+      <li>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<p id="para3">L’autonomie et la responsabilité personnelles (morale) éclairent nos choix.</p></li>
+ </ol>
+  
+
+
+
+
+
+  
+
+ <br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">thèse: </i>
+ 
+ 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color=#FF00FF;">  Problématique: </i>
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color=#00FF00;">  Arguments: </i>
+  
+
+
+
+ 
 
 
 
