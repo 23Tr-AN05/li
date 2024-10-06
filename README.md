@@ -264,55 +264,31 @@
    <li><p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; → La dialectique est donc la reconnaissance réciproque de deux consciences. </p></li>
  </ol>
 
-1--
-
-2--
-
-3--
-
-4--
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
   <br><br><br>
- <p id="para9"><u><b>Karl MARX, <i>Le Capital</i>, XIX<sup>e</sup> siècle (P.292)</b></u></p>
+ <p id="para9"><u><b>John LOCKE, <i>Seconde Traité du gouvernement civil</i>, XVII<sup>e</sup> siècle (P.290)</b></u></p>
 
-   <button type="button" class="collapsible"><p id="para3"><b>Karl MARX,</b>, <i>Le Capital</i>, XIX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>John LOCKE,</b>, <i>Seconde Traité du gouvernement civil</i>, XVII<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
 
 
  <br>
- <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>
+ <p id="para3"><font style="color:#FF0000;">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Liberté naturelle : pouvoir qu’à l’Homme de développer ses facultés à faire ce qui lui est agréable et utile. Dans la société, cette liberté est limitée par les lois morales et juridiques.
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Pour John LOCKE, cette liberté naturelle permet à l’Homme d’assurer sa conservation (= demeurer en vie) et celle d’autrui.</font> 
+ <br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>La liberté de l’Homme réside dans les lois de la nature qui consiste à se conserver soi-même et autrui.    
 
- <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>Peut-on être libre en étant soumis à une loi naturelle ou juridique ?
 
 
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i></p>
  <ol>
-      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;                     </p></li>
-      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;                      </p></li>
-      <li>  <p id="para3">  &nbsp;&nbsp;&nbsp;&nbsp;                                    </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; Distinction entre la liberté naturelle et la liberté civil (droit / devoir)                    </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;  La liberté naturelle oblige l’Homme à ne pas se soumettre à un pouvoir absolu et arbitraire (monarchie).                    </p></li>
+      <li>  <p id="para3">  &nbsp;&nbsp;&nbsp;&nbsp;   La liberté implique de ne pas disposer de son propre corps, de sa propre vie.                                 </p></li>
  </ol>
-
+ <br>
+ <img src="image/3.jpg" width="900" height="350" />
+ <br>
 
 
 
