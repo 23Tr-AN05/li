@@ -85,12 +85,16 @@
         color: black;
     }
     #m2{
-         background-color:#8FFF6D;
+        background-color:#8FFF6D;
         color: black;
     }
     #m3{
          background-color:#C1FFFC;
         color: black;
+    }
+    #m4{
+        background-color:#00FFFF;
+        color:black;
     }
     #p1{
         text-align:center;
@@ -189,12 +193,12 @@
 
  
 
-
+ <p id="para9"><u><b>Iris MURDOCH, <i>La souveraineté et du bien</i>, XX<sup>e</sup> siècle (P.264-265)</b></u></p>
    <button type="button" class="collapsible"><p id="para3"><b>Iris MURDOCH,</b>, <i>La souveraineté et du bien</i>, XX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
 
 
  <br>
- <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">thèse: </i>La liberté est liée à notre niveau de connaissance de soi et du monde qui nous entoure, ils influencent, orientent nos choix. C’est cette connaissance qu’elle nomme <font style="color:#FF0000;">« attention »</font>, mais souvent nos choix sont déjà préorientés par les<font style="color:#FF0000;"> valeurs morales </font>de notre société.
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>La liberté est liée à notre niveau de connaissance de soi et du monde qui nous entoure, ils influencent, orientent nos choix. C’est cette connaissance qu’elle nomme <font style="color:#FF0000;">« attention »</font>, mais souvent nos choix sont déjà préorientés par les<font style="color:#FF0000;"> valeurs morales </font>de notre société.
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>En quoi la connaissance du monde environnant permet d’exercer notre liberté ?
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i></p>
  <ol>
@@ -214,15 +218,36 @@
 
 
  <br>
- <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">thèse: </i> Il existe des degrés de responsabilité en ce qui concerne les actes volontaires
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i> Il existe des degrés de responsabilité en ce qui concerne les actes volontaires
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>Comment évaluer la responsabilité d’un acte volontaire (acte librement réalisé) ?
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i></p>
  <ol>
       <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; Distinction entre volontaire et involontaire.<br><font style="color:#FF0000;">Involontaire : fait sous la contrainte ou par ignorance.<br>Volontaire : accompli librement mais aussi, selon les cas, par crainte d’un grand mal.</font> </p></li>
-      <li>  <p id="para3"&nbsp;&nbsp;&nbsp;&nbsp;>La responsabilité d’un acte dépend du degré de volontaire (ex : menace de tuer des proches).<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └> Sous-entend que notre liberté n’est jamais totale, il y a des contraintes.        </p></li>
+      <li>  <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;La responsabilité d’un acte dépend du degré de volontaire (ex : menace de tuer des proches).<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └> Sous-entend que notre liberté n’est jamais totale, il y a des contraintes.        </p></li>
       <li>  <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;On doit réfléchir au cas par cas établir des sanctions par rapport au degré de responsabilité. (ex : le capitaine d’un navire marchand subissant une tempête)</p></li>
  </ol>
   
+
+  <br><br><br>
+ <p id="para9"><u><b>Karl MARX, <i>Le Capital</i>, XIX<sup>e</sup> siècle (P.292)</b></u></p>
+
+   <button type="button" class="collapsible"><p id="para3"><b>Karl MARX,</b>, <i>Le Capital</i>, XIX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+
+
+ <br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>L’ouvrier est asservi par le maître, même s’il existe un contrat de travail et un salaire.
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>La liberté de l’ouvrier est-elle possible dans le cadre du travail ?
+
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i></p>
+ <ol>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;    L’histoire réelle montre que l’Homme est sans cesse asservi, dominé par d’autres, contrairement à ce que décrivent les manuels officiels qui parlent du droit au travail.                 </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;  Le rapport entre l’ouvrier et le patron est toujours du profit de ce dernier, malgré qu’il y ait un contrat encadré par le droit et un salaire.                    </p></li>
+      <li>  <p id="para3">  &nbsp;&nbsp;&nbsp;&nbsp;  L’ouvrier s’est rendu dépendant du parton en lui abandonnant son avoir-faire.                                  </p></li>
+  </ol>
+  <p id="para3"> &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; <i id="m4">⇒ 2 Référence :</i><br> &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; └> HEGEL : dialectique du maître et de l’esclave<br> &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;└> ARISTOTE : en puissance / en acte (l.12-13) </P>
+
 
 
 
@@ -230,6 +255,30 @@
  
 
 
+
+
+
+
+
+
+<br><br><br>
+ <p id="para9"><u><b>Karl MARX, <i>Le Capital</i>, XIX<sup>e</sup> siècle (P.292)</b></u></p>
+
+   <button type="button" class="collapsible"><p id="para3"><b>Karl MARX,</b>, <i>Le Capital</i>, XIX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+
+
+ <br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>
+
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i></p>
+ <ol>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;                     </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;                      </p></li>
+      <li>  <p id="para3">  &nbsp;&nbsp;&nbsp;&nbsp;                                    </p></li>
+ </ol>
 
 
 
