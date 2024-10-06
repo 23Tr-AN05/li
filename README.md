@@ -246,7 +246,74 @@
       <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;  Le rapport entre l’ouvrier et le patron est toujours du profit de ce dernier, malgré qu’il y ait un contrat encadré par le droit et un salaire.                    </p></li>
       <li>  <p id="para3">  &nbsp;&nbsp;&nbsp;&nbsp;  L’ouvrier s’est rendu dépendant du parton en lui abandonnant son avoir-faire.                                  </p></li>
   </ol>
-  <p id="para3"> &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; <i id="m4">⇒ 2 Référence :</i><br> &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; └> HEGEL : dialectique du maître et de l’esclave<br> &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;└> ARISTOTE : en puissance / en acte (l.12-13) </P>
+  <p id="para3"> &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; <i id="m4">⇒ 2 Référence :</i><br> &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; └> HEGEL : dialectique du maître et de l’esclave<br> &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└> ARISTOTE : en puissance / en acte (l.12-13) </P>
+
+
+  <br><br><br>
+  <p id="para9"><u><b> Alexandre KOJÈVE, <i>Commentaire de la Phénoménologie de l’Esprit de HEGEL</i>, XIX<sup>e</sup> siècle </b></u></p>
+
+   <button type="button" class="collapsible"><p id="para3"><b> Alexandre KOJÈVE,</b>, <i>Commentaire de la Phénoménologie de l’Esprit de HEGEL</i>, XX<sup>e</sup> siécle</p>  </button>
+
+
+ <p id="para3"> Georg Wilhelm Friedrich HEGEL met en scène deux individus, deux consciences : l’un prend le statut d’Esclave et l’autre celui de Maître.</p>
+  <ol>
+   <li><p id="para3">   &nbsp;&nbsp;&nbsp;&nbsp;→ L’Esclave est celui qui a renoncé à sa liberté car il a peur de mourir (prisonnier de guerre).
+        <br> &nbsp;&nbsp;&nbsp;&nbsp;→ Le Maître est celui qui affirme sa liberté et l’exprime en dominant le prisonnier. </p></li>
+   <li><p id="para3">  &nbsp;&nbsp;&nbsp;&nbsp;→ L’Esclave, en répondant aux besoins du Maître, va acquérir des compétences, des connaissances  nouvelles et se rendre ainsi indispensable au Maître. <br>&nbsp;&nbsp;&nbsp;&nbsp;└> Grâce à ces connaissances et savoir-faire, l’Esclave transforme le monde et se transforme lui-même, gagnant ainsi en liberté. <br> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <font style="color:#FF0000;"> └> Le travail libérateur : le travail permet à l’Esclave d’agir sur sa nature et sur la nature (travail = transformation de la nature). </font></p></li>
+   <li><p id="para3"> &nbsp;&nbsp;&nbsp;&nbsp; → Renversement : Le Maître va devenir dépendant de l’Esclave.<br>&nbsp;&nbsp;&nbsp;&nbsp; └> Le Maître va devoir reconnaître comme sujet, comme une conscience à part entière, l’Esclave.</p></li>
+   <li><p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; → La dialectique est donc la reconnaissance réciproque de deux consciences. </p></li>
+ </ol>
+
+1--
+
+2--
+
+3--
+
+4--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <br><br><br>
+ <p id="para9"><u><b>Karl MARX, <i>Le Capital</i>, XIX<sup>e</sup> siècle (P.292)</b></u></p>
+
+   <button type="button" class="collapsible"><p id="para3"><b>Karl MARX,</b>, <i>Le Capital</i>, XIX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+
+
+ <br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>
+
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i></p>
+ <ol>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;                     </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;                      </p></li>
+      <li>  <p id="para3">  &nbsp;&nbsp;&nbsp;&nbsp;                                    </p></li>
+ </ol>
+
+
 
 
 
