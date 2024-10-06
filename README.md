@@ -188,7 +188,6 @@
  <br><br><br>
 
  
- <p id="para9"><u><b>Iris MURDOCH,, <i>La souveraineté et du bien</i>, XX<sup>e</sup> siècle ((p.284-285))</b></u></p>
 
 
    <button type="button" class="collapsible"><p id="para3"><b>Iris MURDOCH,</b>, <i>La souveraineté et du bien</i>, XX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
@@ -205,40 +204,26 @@
  </ol>
   
 
+ 
 
 
+ <p id="para9"><u><b>ARISTOTE, <i> Éthique à Nicomaque</i>, IV<sup>e</sup> siècle avant J.-C. (p.282-283)</b></u></p>
 
 
- <p id="para9"><u><b>Iris MURDOCH,, <i>La souveraineté et du bien</i>, XX<sup>e</sup> siècle (p.28é-283)</b></u></p>
-
-
-   <button type="button" class="collapsible"><p id="para3"><b>Iris MURDOCH,</b>, <i>La souveraineté et du bien</i>, XX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>ARISTOTE,</b>, <i> Éthique à Nicomaque</i>,IV<sup>e</sup> s. av. J.-C.<br> Qu'est-ce que vouloir?</p>  </button>
 
 
  <br>
- <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">thèse: </i>La liberté est liée à notre niveau de connaissance de soi et du monde qui nous entoure, ils influencent, orientent nos choix. C’est cette connaissance qu’elle nomme <font style="color:#FF0000;">« attention »</font>, mais souvent nos choix sont déjà préorientés par les<font style="color:#FF0000;"> valeurs morales </font>de notre société.
- <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>En quoi la connaissance du monde environnant permet d’exercer notre liberté ?
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">thèse: </i> Il existe des degrés de responsabilité en ce qui concerne les actes volontaires
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>Comment évaluer la responsabilité d’un acte volontaire (acte librement réalisé) ?
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i>
  <ol>
-      <li>&nbsp;&nbsp;&nbsp;&nbsp;  <p id="para3">Savoir qui nous sommes permet des choix plus authentiques.</p></li>
-      <li>&nbsp;&nbsp;&nbsp;&nbsp;  <p id="para3">On est contraint parce que l’on voit le monde par le niveau de connaissances que l’on possède.</p></li>
-      <li>&nbsp;&nbsp;&nbsp;&nbsp;  <p id="para3">L’autonomie et la responsabilité personnelles (morale) éclairent nos choix.</p></li>
+      <li>&nbsp;&nbsp;&nbsp;&nbsp;  <p id="para3">Distinction entre volontaire et involontaire.<br><font style="color:#FF0000;">Involontaire : fait sous la contrainte ou par ignorance.<br>Volontaire : accompli librement mais aussi, selon les cas, par crainte d’un grand mal.</font> </p></li>
+      <li>&nbsp;&nbsp;&nbsp;&nbsp;  <p id="para3">La responsabilité d’un acte dépend du degré de volontaire (ex : menace de tuer des proches).<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; └> Sous-entend que notre liberté n’est jamais totale, il y a des contraintes.        </p></li>
+      <li>&nbsp;&nbsp;&nbsp;&nbsp;  <p id="para3">On doit réfléchir au cas par cas établir des sanctions par rapport au degré de responsabilité. (ex : le capitaine d’un navire marchand subissant une tempête)</p></li>
  </ol>
   
-ARISTOTE, Éthique à Nicomaque, IVe siècle avant J.-C. (p.282-283)
-Thèse : Il existe des degrés de responsabilité en ce qui concerne les actes
-volontaires
-Problématique : Comment évaluer la responsabilité d’un acte volontaire (acte
-librement réalisé) ?
-Arguments :
-1- Distinction entre volontaire et involontaire.
-Involontaire : fait sous la contrainte ou par ignorance.
-Volontaire : accompli librement mais aussi, selon les cas, par crainte d’un grand mal.
-2- La responsabilité d’un acte dépend du degré de volontaire (ex : menace de
-tuer des proches).
-└> Sous-entend que notre liberté n’est jamais totale, il y a des contraintes.
-3- On doit réfléchir au cas par cas établir des sanctions par rapport au degré de
-responsabilité. (ex : le capitaine d’un navire marchand subissant une tempête)
+
 
 
 
