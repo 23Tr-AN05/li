@@ -395,7 +395,7 @@
 
 
 
-
+ <marquee style="border:RED 3px SOLID">Vous avez accès au cours de la liberté </marquee>
 
  <hr />
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
