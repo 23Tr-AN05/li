@@ -58,7 +58,7 @@
      #para7{
         font-size:30px;
         text-align:center;
-        color:red;
+        color:#C100AA;
     }
     #para8{
         font-size:30px;
@@ -291,36 +291,124 @@
  <br>
 
 
+ <br><br><br>
+ <p id="para9"><u><b>Jean-Paul SARTRE, <i>L’Être et le Néant</i>, XX<sup>e</sup> siècle (P.272)</b></u></p>
+
+   <button type="button" class="collapsible"><p id="para3"><b>Jean-Paul SARTRE,</b>, <i>L’Être et le Néant</i>, XX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
 
 
+ <br>→ Thème de l’angoisse différent de la peur</p>
+ <p id="para3">
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>L’angoisse est éprouvée face au vertige de la liberté, de tous les possibles qui s’annoncent devant nous.
 
-
- 
-
-
-
-
-
-
-
-
-<br><br><br>
- <p id="para9"><u><b>Karl MARX, <i>Le Capital</i>, XIX<sup>e</sup> siècle (P.292)</b></u></p>
-
-   <button type="button" class="collapsible"><p id="para3"><b>Karl MARX,</b>, <i>Le Capital</i>, XIX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
-
-
- <br>
- <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>
-
- <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>Comment peut-on distinguer l’angoisse de la peur?
 
 
  <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i></p>
  <ol>
-      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;                     </p></li>
-      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;                      </p></li>
-      <li>  <p id="para3">  &nbsp;&nbsp;&nbsp;&nbsp;                                    </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;  Distinction entre l’angoisse et la peur.                   </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;   La peur entraîne l’angoisse.                   </p></li>
+ </ol>
+  <img src="image/4.jpg" width="900" height="350" />
+  <br>
+ 
+  <br><br><br>
+ <p id="para9"><u><b> Emmanuel KANT, <i>Critique de la raison pratique</i>, XVIII<sup>e</sup> siècle (P.280)</b></u></p>
+
+   <button type="button" class="collapsible"><p id="para3"><b> Emmanuel KANT,</b>, <i>Critique de la raison pratique</i>, XVIII<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+
+
+ <br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>La liberté exige la morale, mais surtout de résister à nos désirs.
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>Comment s’éprouve notre liberté ?
+
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i></p>
+ <ol>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;Souvent l’individu se cache derrière la force de ses désirs, pour ne pas les maîtriser.                    </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;  Or, la morale fonde la liberté [exemple].                    </p></li>
+      <li>  <p id="para3">  &nbsp;&nbsp;&nbsp;&nbsp;  La liberté s’éprouve dans notre résistance à nos désirs ⇒ dépendance à nos « passions » (l.4) et à nos « penchants » (l.5).                                  </p></li>
+     <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; A contrario, il est impossible à l’Homme de se libérer de sa peur de mourir.                     </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; Emmanuel KANT propose l’idée que la loi morale vient contrecarrer cette peur de mourir.                     </p></li>
+ </ol>
+
+
+ <br><br><br>
+ <p id="para9"><u><b>Jean-Paul SARTRE, <i>L’Être et le Néant</i>, XX<sup>e</sup> siècle (P.288)</b></u></p>
+
+   <button type="button" class="collapsible"><p id="para3"><b>Jean-Paul SARTRE,</b>, <i>L’Être et le Néant</i>, XX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+
+
+ <br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>Sartre remet en question l’idée selon laquelle nous ne pouvons pas changer notre situation, en affirmant notre liberté définie, les limites de notre existence.
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>Comment remet-il en question le déterminisme?
+
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i></p>
+ <ol>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;  1-Exposition des arguments en faveur du déterminisme. (de la ligne 1 à la ligne 16)                   </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;   L’efficacité de la liberté sur les obstacles extérieurs qui peuvent s’imposer comme limites.
+      <br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  └> C’est lorsque ma liberté s’exerce, se déploie, qu’elle envisage des éléments environnants comme des obstacles, des limites, au but / à la fin qu’elle s’est fixé.e.                   </p></li>
+ </ol>
+
+
+
+ <br><br><br>
+ <p id="para9"><u><b>ÉPICTÈTE, <i>Entretiens</i>, I<sup>er</sup> siècle (P.274)</b></u></p>
+
+   <button type="button" class="collapsible"><p id="para3"><b>ÉPICTÈTE,</b>, <i>Entretiens</i>, I<sup>er</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+
+
+ <br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>À partir de la distinction entre les choses qui dépendent de nous et celles qui n’en dépendent pas, notre liberté réside dans ce sur quoi nous pouvons agir : nos jugements, nos pensées, nos opinions, nos désirs. (de la ligne 27 à la ligne 32)
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>Quelles sont les limites de notre indépendance / notre liberté?
+
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i></p>
+ <ol>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;  Liste de ce qui ne dépend pas de nous à partir de la ligne 1 à la ligne 27.                   </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp; Thèse : nous ne pouvons agir que sur les choses qui dépendent de nous.                     </p></li>
+ </ol>
+ <br>
+ <p id="para7"><u><i><b>ÉPICTÈTE</b></i></u></p>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<font style="color:red;">Il a suivi le mouvement philosophique stoïcien (un stoïcien / le stoïcisme).</font>
+ <br>  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;→ L’objectif de la philosophie stoïcienne : le Bonheur</p>
+<br>
+  <img src="image/2.jpg" width="900" height="350" /><br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;Les stoïciens, pour accéder au bonheur, vont tenter de détruire tous désirs en l’Homme, en agissant uniquement sur les choses qui dépendent de lui.<br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;⇒ Pour atteindre le bonheur comme l ⇒ es dieux, mais pas l’immortalité.</p><br>
+  <img src="image/5.jpg" width="900" height="350" />
+  <br   >
+
+
+
+
+
+
+
+
+
+
+
+
+ <br><br><br>
+ <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVII<sup>e</sup> siècle (P.270)</b></u></p>
+
+   <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES,</b>, <i>Méditations métaphysiques</i>, XVII<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+
+
+ <br>
+ <p id="para3">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#0000FF;">Thèse: </i>Nous sommes limités (exemple à la ligne 26 : la mémoire, l’imagination) contrairement à Dieu, mais pas notre volonté qui nous permet d’être libre.
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#FF00FF;">  Problématique: </i>Est-ce que nous sommes libres alors même que nos facultés sont limitées?
+
+
+ <br>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i style="color:#00FF00;">  Arguments: </i></p>
+ <ol>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;   → L’entendement plus la volonté me permettent d’être libre.<br>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; └> L’erreur ne fait pas partie de notre entendement. <br><font style="color:red;">   Entendement (de DESCARTES) : Faculté de connaître, de comprendre, de percevoir, de saisir l’intelligible (compréhension par l’intellect), par opposition aux sensations. <br>Volonté (de DESCARTES) : faculté<b> infinie</b> par laquelle l’Homme ressemble à Dieu.  </font>          </p></li>
+      <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;   Elle me permet de choisir de nier ou affirmer (ligne 37)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└> Expression de ma liberté                   </p></li>
  </ol>
 
 
@@ -394,8 +482,8 @@
 
 
 
- <font color="WHITE"><marquee direction="left" style="background:RED">Vous avez accès au cours de la liberté</marquee></font>
- <marquee style="border:RED 10px SOLID">Vous avez accès au cours de la liberté </marquee>
+ <font color="WHITE"><marquee direction="left" style="background:RED"><p id="para3">Vous avez accès au cours de la liberté</p></marquee></font>
+ <marquee style="border:RED 3px SOLID"><p id="para3">Vous avez accès au cours de la liberté </p></marquee>
 
  <hr />
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
