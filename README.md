@@ -109,7 +109,8 @@
  <body>
  <h1 id="para1">COMMENT PEUT-ON DEFINIR LA LIBERTE?</h1>
  <h2 id="para2">Comment peut-elle s'exprimer?</h2>
- <br>  
+ <br> 
+  <font color="WHITE"><marquee direction="left" style="background:RED"><p id="para3">Les textes sont temporairement indisponibles</p></marquee></font> 
  <br>
   <ol style="liste-style-type:lower-alpha">
      <li id="para3"> &nbsp;&nbsp; &nbsp;&nbsp; <font style="color:#0000FF;">La liberté d’indépendance : c’est le fait de ne dépendre de rien (substance) ni de personne.</font><br></li>
@@ -194,7 +195,7 @@
  
 
  <p id="para9"><u><b>Iris MURDOCH, <i>La souveraineté et du bien</i>, XX<sup>e</sup> siècle (P.264-265)</b></u></p>
-   <button type="button" class="collapsible"><p id="para3"><b>Iris MURDOCH,</b>, <i>La souveraineté et du bien</i>, XX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>Iris MURDOCH,</b>, <i>La souveraineté et du bien</i>, XX<sup>e</sup> siécle<br> La liberté dépend-elle de notre niveau de connaissance?</p>  </button>
 
 
  <br>
@@ -214,7 +215,7 @@
  <p id="para9"><u><b>ARISTOTE, <i> Éthique à Nicomaque</i>, IV<sup>e</sup> siècle avant J.-C. (p.282-283)</b></u></p>
 
 
-   <button type="button" class="collapsible"><p id="para3"><b>ARISTOTE,</b>, <i> Éthique à Nicomaque</i>,IV<sup>e</sup> s. av. J.-C.<br> Qu'est-ce que vouloir?</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>ARISTOTE,</b>, <i> Éthique à Nicomaque</i>,IV<sup>e</sup> s. av. J.-C.<br> Peut-on être plus ou moins libre?</p>  </button>
 
 
  <br>
@@ -231,7 +232,7 @@
   <br><br><br>
  <p id="para9"><u><b>Karl MARX, <i>Le Capital</i>, XIX<sup>e</sup> siècle (P.292)</b></u></p>
 
-   <button type="button" class="collapsible"><p id="para3"><b>Karl MARX,</b>, <i>Le Capital</i>, XIX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>Karl MARX,</b>, <i>Le Capital</i>, XIX<sup>e</sup> siécle<br> La liberté politique est-elle indépendante de la liberté économique?</p>  </button>
 
 
  <br>
@@ -269,7 +270,7 @@
   <br><br><br>
  <p id="para9"><u><b>John LOCKE, <i>Seconde Traité du gouvernement civil</i>, XVII<sup>e</sup> siècle (P.290)</b></u></p>
 
-   <button type="button" class="collapsible"><p id="para3"><b>John LOCKE,</b>, <i>Seconde Traité du gouvernement civil</i>, XVII<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>John LOCKE,</b>, <i>Seconde Traité du gouvernement civil</i>, XVII<sup>e</sup> siécle<br>Être libre, est-ce n'être soumis à aucune loi?</p>  </button>
 
 
  <br>
@@ -294,7 +295,7 @@
  <br><br><br>
  <p id="para9"><u><b>Jean-Paul SARTRE, <i>L’Être et le Néant</i>, XX<sup>e</sup> siècle (P.272)</b></u></p>
 
-   <button type="button" class="collapsible"><p id="para3"><b>Jean-Paul SARTRE,</b>, <i>L’Être et le Néant</i>, XX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>Jean-Paul SARTRE,</b>, <i>L’Être et le Néant</i>, XX<sup>e</sup> siécle<br> Qu'est-ce qu'être libre?</p>  </button>
 
 
  <br>→ Thème de l’angoisse différent de la peur</p>
@@ -315,7 +316,7 @@
   <br><br><br>
  <p id="para9"><u><b> Emmanuel KANT, <i>Critique de la raison pratique</i>, XVIII<sup>e</sup> siècle (P.280)</b></u></p>
 
-   <button type="button" class="collapsible"><p id="para3"><b> Emmanuel KANT,</b>, <i>Critique de la raison pratique</i>, XVIII<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b> Emmanuel KANT,</b>, <i>Critique de la raison pratique</i>, XVIII<sup>e</sup> siécle<br> Sommes-nous prisonniers de nos instincts?</p>  </button>
 
 
  <br>
@@ -337,7 +338,7 @@
  <br><br><br>
  <p id="para9"><u><b>Jean-Paul SARTRE, <i>L’Être et le Néant</i>, XX<sup>e</sup> siècle (P.288)</b></u></p>
 
-   <button type="button" class="collapsible"><p id="para3"><b>Jean-Paul SARTRE,</b>, <i>L’Être et le Néant</i>, XX<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>Jean-Paul SARTRE,</b>, <i>L’Être et le Néant</i>, XX<sup>e</sup> siécle<br> Ma liberté est-elle compatible avec celle d'autrui?</p>  </button>
 
 
  <br>
@@ -358,7 +359,7 @@
  <br><br><br>
  <p id="para9"><u><b>ÉPICTÈTE, <i>Entretiens</i>, I<sup>er</sup> siècle (P.274)</b></u></p>
 
-   <button type="button" class="collapsible"><p id="para3"><b>ÉPICTÈTE,</b>, <i>Entretiens</i>, I<sup>er</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>ÉPICTÈTE,</b>, <i>Entretiens</i>, I<sup>er</sup> siécle<br> Être libre, est-ce pouvoir faire ce que l'on veut?</p>  </button>
 
 
  <br>
@@ -383,20 +384,10 @@
   <br   >
 
 
-
-
-
-
-
-
-
-
-
-
  <br><br><br>
  <p id="para9"><u><b>René DESCARTES, <i>Méditations métaphysiques</i>, XVII<sup>e</sup> siècle (P.270)</b></u></p>
 
-   <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES,</b>, <i>Méditations métaphysiques</i>, XVII<sup>e</sup> siécle<br> Qu'est-ce que vouloir?</p>  </button>
+   <button type="button" class="collapsible"><p id="para3"><b>René DESCARTES,</b>, <i>Méditations métaphysiques</i>, XVII<sup>e</sup> siécle<br> L'Homme est-il libre par sa pensée?</p>  </button>
 
 
  <br>
@@ -411,79 +402,6 @@
       <li> <p id="para3">&nbsp;&nbsp;&nbsp;&nbsp;   Elle me permet de choisir de nier ou affirmer (ligne 37)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└> Expression de ma liberté                   </p></li>
  </ol>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <font color="WHITE"><marquee direction="left" style="background:RED"><p id="para3">Vous avez accès au cours de la liberté</p></marquee></font>
- <marquee style="border:RED 3px SOLID"><p id="para3">Vous avez accès au cours de la liberté </p></marquee>
 
  <hr />
  <p id="para3"> Veuillez trouver la version PDF de ce cours ci-dessous  😇 </p>
